@@ -1,0 +1,33 @@
+#fileList {
+  list-style: none;
+  margin: auto;
+}
+
+#fileList li:hover {
+  background-color: #eeee;
+  cursor: pointer;
+}
+
+#fileList li {
+  height: 200px;
+  width: 200px;
+  padding-bottom: 100px;
+  margin: auto;
+}
+
+
+#filesToUpload {
+  font: 15px "Open Sans", Helvetica;
+}
+
+#runButton {
+  font: 15px "Open Sans", Helvetica;
+}
+
+#zipbutton {
+  font: 15px "Open Sans", Helvetica;
+}
+
+.contentright {
+  max-height: 600px;
+}
